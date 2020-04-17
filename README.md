@@ -6,5 +6,6 @@
 ```js
  npm i nodemon -g --save 
 //安装完后去下载package.json 依赖包,然后 npm start 启动服务器
+// 然后把postman 打开,并import导入warp下的 硅谷外卖-vue项目.postman_collection.json
 ```
 * 
