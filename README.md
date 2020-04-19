@@ -23,5 +23,10 @@ return _.chunk(this.categories,8)
 ```js
 npm install swiper --save
 ```
-* 
+* 表单验证的一个库
+```js
+ npm install vee-validate@2.2.15 --save
+ ```
+ * 
+
 
